@@ -1,4 +1,8 @@
-# ![Dogs vs Cats](/cat_vs_dog.jpg.png) Dogs vs Cats Classification
+<div align="center">
+  <img src="cat_vs_dog.jpg" alt="Dogs vs Cats" style="width: 700px;"/>
+    <h1>Dogs v/s Cats Classification
+</h1>
+</div>
 
 This repository contains a Convolutional Neural Network (CNN) model for classifying images of dogs and cats using TensorFlow and Keras. The dataset used is from [Kaggle](https://www.kaggle.com/datasets/salader/dogs-vs-cats).
 
