@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Cat_Vs_Dog.jpg" alt="Dogs vs Cats" style="width: 700px;"/>
+  <img src="Cat_Vs_Dog.jpg" alt="Dogs vs Cats" style="width: 250px;"/>
     <h1>Dogs v/s Cats Classification
 </h1>
 </div>
