@@ -24,7 +24,7 @@ The dataset consists of 25,000 images of dogs and cats, with 20,000 images for t
     ```
 
 3. **Download the dataset from Kaggle**:
-    - Ensure you have the `kaggle.json` API key file.
+    - Ensure you have the `kaggle.json` API key file ( included in the repo ).
     - Place `kaggle.json` in `~/.kaggle/`:
       ```bash
       mkdir -p ~/.kaggle
